@@ -1,0 +1,3 @@
+Convert ASCII to alphabetic 0 - 26 
+Shift alphabetic using formula
+convert results back to ascii
